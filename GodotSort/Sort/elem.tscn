@@ -1,0 +1,27 @@
+[gd_scene load_steps=2 format=3 uid="uid://bhutuc7eejnk8"]
+
+[ext_resource type="Script" path="res://Sort/applyData.gd" id="1_aasr3"]
+
+[node name="Elem" type="Control"]
+custom_minimum_size = Vector2(0, 50)
+layout_mode = 3
+anchors_preset = 0
+size_flags_stretch_ratio = 0.0
+script = ExtResource("1_aasr3")
+
+[node name="ProgressBar" type="ProgressBar" parent="."]
+layout_mode = 0
+offset_left = 220.0
+offset_top = 10.0
+offset_right = 1470.0
+offset_bottom = 40.0
+show_percentage = false
+
+[node name="Label" type="Label" parent="."]
+layout_mode = 0
+offset_left = 25.0
+offset_right = 205.0
+offset_bottom = 50.0
+theme_override_font_sizes/font_size = 30
+text = "1234567890"
+vertical_alignment = 1
