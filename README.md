@@ -28,3 +28,5 @@
 
  ## About the Timer
  Since GDscript is base on Python, doing large add is so slow, the timer's result only contain the time used to sort, so if the game freeze, it's most likely Godot's fault (lol)
+
+ ## [How to Build](https://docs.godotengine.org/en/stable/tutorials/export/exporting_projects.html)
