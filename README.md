@@ -1,4 +1,5 @@
 # Godot Array Sorting Algorithm
+ ## [Overview](https://www.youtube.com/watch?v=S51iVghaIpI)
  This is an attempt to use classic sorting algorithm to sort arrays in godot 4.
  
  I started learning sorting algorithm in collage, so I decide to put my knowledge to good use.
