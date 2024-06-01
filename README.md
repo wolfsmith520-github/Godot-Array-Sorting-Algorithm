@@ -10,8 +10,7 @@
 
  ### [Quick Sort](https://en.wikipedia.org/wiki/Quicksort)
  Good old and the best sorting algorithm
- Worst-case performance : *O(n²)*
- Best-case performance : *O(nlogn)* or *O(n)*
+
  ### [Bubble Sort](https://en.wikipedia.org/wiki/Bubble_sort)
  Very easy to achieve this algorithm but the performance sometimes are very bad
 
